@@ -1,0 +1,145 @@
+You are a senior web developer and conversion-focused copywriter specializing in textile production and color management.
+
+I need you to build a complete, single-page website for my brand. Requirements:
+
+## TECHNICAL REQUIREMENTS
+1. Put ALL code (HTML, CSS, JavaScript) in ONE single file. No separate modules.
+2. I will copy the output into a .txt file, rename it to .html, and open it in a browser. It must work immediately with zero external dependencies except Google Fonts.
+3. Fully responsive — must look professional on mobile (min 320px width) and desktop.
+4. Keep total file size reasonable. Compress images, no heavy JS libraries.
+5. WCAG 2.2 AA compliance:
+   - Body text contrast 4.5:1 minimum, large text 3:1 [citation:16]
+   - All interactive elements minimum 24x24 CSS pixels [citation:2]
+   - Visible keyboard focus indicators (never use outline: none without alternative) [citation:2]
+   - Semantic HTML: header, nav, main, section, article, footer
+   - Proper heading hierarchy: one H1 per page, H2 for sections, H3 for sub-sections [citation:16]
+   - Alt text on all meaningful images, decorative images marked to skip [citation:16]
+
+## BRAND INFO
+- Brand name: DesignYourTextile
+- Logo/abbreviation: DYT — make it LARGE and visually dominant in header and footer. It should be the strongest visual anchor on the page.
+- Industry: Textile print design and production color management services
+- Contact email: help@designyourtextile.com
+- One-line positioning: "I make sure what the buyer approves is exactly what comes off the production line."
+
+## TONE AND VOICE
+- Expert but not condescending. Confident but not salesy.
+- Educational but concise. Technical but accessible.
+- Think: a trusted specialist who saves clients money, not a marketing agency.
+
+## VISUAL REFERENCE
+- Design direction: Think Pantone's website meets a technical spec sheet — clean, color-forward, precise.
+- Dark base palette (deep navy or charcoal), one accent color for CTAs (electric blue or warm coral).
+- Typography: Clean sans-serif for body, bold geometric sans for headlines (Google Fonts: Inter + Space Grotesk).
+- The DYT logo must feel like a technical brand mark — strong, confident, not playful.
+
+## WEBSITE SECTIONS (in this order)
+
+### 1. Header / Navigation
+- Large DYT logo on the left
+- Simple nav links to page sections
+- Minimal, professional, sticky header allowed
+
+### 2. Hero Section
+- Headline: "Your Textile Design Deserves Production-Grade Color Accuracy"
+- Subheadline explaining DYT value proposition: bridging design studio and factory floor
+- Primary CTA: "See How I Work With Mills" (scrolls to workflow section)
+- Secondary CTA: "Contact DYT" (mailto: link)
+- Dark background, large white typography
+
+### 3. Educational Section: "Why You Need a Textile Production Designer (Not Just Any Graphic Designer)"
+This is the most important section. Write genuinely educational content in plain language that a textile brand manager, sourcing manager, or product developer would find valuable. Cover:
+
+**A. The Substrate Problem — Why the Same Color Looks Different on Cotton, Polyester, and Silk**
+Explain that different fibers absorb dye differently due to their molecular structure (amorphous vs crystalline regions), pH sensitivity, and surface reflectance. Include concrete examples:
+- On the same dyeing condition, wool can produce a much deeper color depth (K/S = 4.4) than silk (K/S = 1.42) or cotton (K/S = 0.93) because wool has more amorphous regions [citation:7]
+- Polyester dyed at 130°C can actually produce *lower* color depth than at 100°C because the dye decomposes at higher temperatures [citation:7]
+- The same Pantone reference applied to different fabrics will not visually match — this is physics, not a defect [citation:6]
+
+**B. What Delta-E Means and Why It Costs You Money**
+Explain in accessible terms:
+- Delta-E (ΔE) is the numerical measurement of color difference between a target and what actually comes out of production [citation:5]
+- The textile industry typically requires ΔE ≤ 1.5 or even ≤ 0.5 for premium work
+- A ΔE of 3 is often the maximum acceptable in some commercial standards, but for high-end brands this is far too loose
+- Explain what happens when Delta-E is ignored: fabric gets rejected, seasons get missed, brand reputation suffers, and money is wasted on strike-offs that never get approved [citation:11]
+
+**C. The Pantone TCX Difference — Why Paper Swatches Are Not Enough**
+- TCX means "Textile Cotton eXtended" — engineered cotton swatches designed for accurate textile matching [citation:6]
+- TPX/TPG are paper versions, and only about 60-80% of them match the cotton TCX standard well [citation:6]
+- Dark and saturated colors (black, navy, deep reds) rarely match on paper because it's difficult to build sufficient depth of color on paper [citation:6]
+- If a brand specifies color from a paper guide, the mill may produce something that is technically "correct" but visually wrong [citation:20]
+
+**D. What Happens Without a Production Designer**
+Explain the chain of consequences:
+- Lab dips fail repeatedly, adding weeks of delay
+- Dye lots drift across large orders, producing visible color variations in the final product [citation:11]
+- 1-5% extra fabric is routinely ordered just to compensate for color and defect issues [citation:11]
+- The brand's reputation takes a hit when customers receive products that don't match what they saw on screen or in a showroom
+
+### 4. Services Section: "What DYT Brings to Your Production"
+Present the 5 core services in a clean grid or card layout:
+1. **Cross-Substrate Color Matching** — Cotton, polyester, silk, and blends each behave differently. DYT ensures your target color is achievable and consistent across every fabric in your range.
+2. **Pantone/TCX Matching for Brand Clients** — Engineered standards, not paper approximations. DYT works with cotton TCX swatches to specify colors your mill can actually reproduce.
+3. **Delta-E Correction and Tolerance Management** — Setting realistic, production-appropriate tolerances based on your process stability, not arbitrary numbers.
+4. **ICC Profile Management** — For digital printers, rotary screens, and sublimation. Every output device gets calibrated so your digital files translate accurately to fabric.
+5. **Dye-Lot Consistency Across Large Runs** — Managing color drift across batches so your final product looks like one collection, not a patchwork.
+
+### 5. Workflow Section: "How a Textile Company Works With DYT"
+Present as a numbered step-by-step timeline:
+1. **Brief and Specification Review** — You share your design intent, target fabrics, print method, and any existing color standards. DYT identifies potential color risks before anything goes to the mill.
+2. **Color Standard Development** — DYT selects and documents the appropriate Pantone TCX references, considering substrate behavior and production capability.
+3. **File Preparation and Prepress** — Production-ready files with correct repeats, separations, ICC profiles, and output settings for your specific print method.
+4. **Lab Dip / Strike-Off Review** — DYT measures submitted samples against the target using ΔE tolerances appropriate to your quality standard, and provides clear pass/fail feedback.
+5. **Production Approval and Archive** — Once bulk production is approved, DYT archives the files, color standards, and tolerance data so your next order is reproducible.
+
+### 6. FAQ Section (SEO-optimized, educational)
+Write 5-7 FAQ items with clear, answer-first responses:
+- What is Delta-E and what tolerance should my brand use?
+- Why does my Pantone color look different on paper vs. fabric?
+- How do I prevent dye-lot variation across large orders?
+- Can a regular graphic designer handle textile production files?
+- What is an ICC profile and why does it matter for textile printing?
+
+### 7. Testimonial Placeholder Section
+- Structured section for client testimonials
+- Leave empty but ready for content
+- Include: quote, client name, company, role
+- Add note: "Replace with real client feedback before publishing."
+
+### 8. Contact Section
+- Display help@designyourtextile.com prominently as a clickable mailto: link
+- List what to include in an inquiry: fabric type, print method, target colors, and production timeline
+- Clear CTA button
+- Make the email LARGE and impossible to miss
+
+### 9. Footer
+- Large DYT logo
+- Contact email
+- Brief tagline
+
+## SEO REQUIREMENTS (2026 Standards)
+
+**On-Page SEO:**
+- Page title: "Textile Graphic Designer | Production Color Management | DesignYourTextile"
+- Meta description: "DYT specializes in production-ready textile files, Pantone TCX matching, Delta-E correction, and ICC profile management. Learn why color management matters."
+- H1: "Textile Production Design and Color Management by DYT"
+- Use semantic HTML structure
+- Keywords naturally integrated: textile graphic designer, textile color management, Pantone TCX matching, Delta-E textile, ICC profile textile, dye-lot consistency
+- Image alt text with descriptive keywords [citation:1]
+
+**Technical SEO:**
+- Mobile-first responsive design (Google uses mobile-first indexing) [citation:8]
+- Fast loading: compress images, minimize render-blocking resources [citation:8]
+- Simple URL structure
+- Schema markup: ProfessionalService, FAQPage, Service schemas
+
+**AI Search Optimization (2026):**
+- Answer-first formatting: start each section with a direct answer, then expand [citation:15]
+- Make brand name appear clearly in content for AI Overview attribution [citation:15]
+- Structure content so search engines and AI assistants can extract and cite it [citation:8]
+
+## OUTPUT FORMAT
+Generate the complete HTML file with embedded CSS and JavaScript. The result should be a single, polished, educational website that positions DYT as a trusted production partner — not a generic design service.
+
+## FALLBACK INSTRUCTION
+If any section is too long for one response, prioritize: (1) the educational section, (2) the services section, (3) the contact section. I can request the remaining sections separately.
