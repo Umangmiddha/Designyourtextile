@@ -1,0 +1,71 @@
+Website Copy & Content Architecture
+DYT - Design Your Textile | Graphic Design Studio for Textile
+
+1. WEBSITE META & SEO TAGS
+Title: DYT - Design Your Textile | Textile Design, 3D CAD & Motion Studio
+Description: DYT is a graphic design studio built for textile businesses - textile design, production-ready artwork, 3D CAD visualization and motion design.
+Keywords: textile design studio, graphic design for textile, production ready artwork, 3D CAD visualization textile, textile motion design, surface pattern design, seamless repeats, tech pack, colourways
+
+2. POSITIONING
+DYT is a graphic design studio specialized in textile businesses. We combine four disciplines under one roof so a fabric idea can be designed, produced, visualized in 3D and brought to life in motion - without ever handing it to a different studio.
+Tagline themes: Design to Motion. Built for textile. A studio that speaks fabric - and shows it in motion.
+
+3. SITE ARCHITECTURE (MULTI-PAGE)
+- index.html      Home
+- services.html   Services (Design, Production Artwork, 3D CAD, Motion)
+- portfolio.html  Work
+- process.html    Process
+- about.html      Studio
+- contact.html    Contact / Start a Project
+
+4. BRAND
+Name: DYT
+Full name: DYT - Design Your Textile
+Contact (ONLY POC): admin@designyourtextile.com
+
+5. HERO (HOME)
+Eyebrow: Graphic Design Studio for Textile . Design to Motion
+Headline: We design, visualize and animate textile - from flat artwork to 3D and motion.
+Sub: DYT is a graphic design studio built for textile businesses. Textile design and seamless repeats, production-ready artwork, 3D CAD visualization and motion design - one studio taking a fabric concept from first sketch to approved, shelf-ready presentation.
+CTAs: Explore Our Services / View Our Work
+Badges: Textile Design | 3D CAD | Motion Design
+
+6. DISCIPLINES
+- Textile Design: hand-painted and digital surface patterns, seamless repeats, placements, engineered prints, borders.
+- Production-Ready Artwork: colour separation, repeat metadata, Pantone matching, prepress artwork and full tech packs.
+- 3D CAD Visualization: fabric drape/material renders, garment and home product models, colourway and variant studies, digital twins.
+- Motion Design: drape and flow animation, print repeat motion, product turntables, collection showreels, social-ready assets.
+
+7. SERVICES (SERVICES.HTML)
+01 Textile Design - surface patterns, seamless repeats, engineered/placement prints, colourways & separations.
+02 Production-Ready Artwork - tech packs, colour separation & files, strike-off support, layered source & spec.
+03 3D CAD Visualization - fabric & material renders, garment & home 3D models, colourway & variant renders.
+04 Motion Design - drape & flow animation, print & repeat motion, product turntables & reels, collection showreels.
+Deliverables: layered source, print/loom art, 3D CAD renders, motion assets.
+
+8. PROCESS (PROCESS.HTML)
+01 Brief & Fabric Research - research board, fabric brief, direction notes.
+02 Concept & Motif Development - concept boards, motif sets, early repeat trials.
+03 Repeat, Colourway & 3D CAD Build - seamless repeats, colourways, separations, 3D renders.
+04 Sampling & Strike-Off Review - strike-off comments, colour approvals, revisions.
+05 Motion & Production Handover - final file set, tech pack, colour standards, motion assets.
+Working principles: design for production first; see it before you make it (3D); handover is part of the craft.
+
+9. WORK (PORTFOLIO.HTML)
+Case studies across textile design, production artwork, 3D CAD visualization and motion. Categories: apparel & fashion, home & furnishing, technical & performance.
+
+10. STUDIO (ABOUT.HTML)
+Why textile only. Full brief coverage: trend & market research, motif & pattern creation, prepress & production artwork, 3D CAD visualization, motion design, tech packs & documentation. Tools & craft: by hand, digital, 3D CAD, motion. Who we work with: fashion labels, home brands, mills/printers, independent designers.
+
+11. CONTACT (CONTACT.HTML)
+Form: name, email, phone, company, service needed, timeline, project brief, optional reference attachment (now accepts 3D & video refs).
+Brief template: fabric type, service needed, product & market, season & quantity, timeline, references.
+Direct email: admin@designyourtextile.com (the only point of contact on the site)
+
+12. FAQ THEMES
+Studio type, design & artwork deliverables, 3D CAD visualization, motion design, project start, timelines, artwork ownership, mill coordination, international clients.
+
+13. DESIGN LANGUAGE (UNCHANGED)
+Warp-thread ruled background grid; dye-bleed glows; dyelot palette (indigo, madder, turmeric, moss, clay, thread/gold); loom-grid swatch panel; woven motif overlays; technical JetBrains Mono microcopy (repeat size, DPI, Pantone, files, render/motion formats).
+
+NOTE: The visual theme, layout, styling, colors, typography, animations and overall design are kept exactly as before. Only content, messaging, service positioning and terminology were updated.
